@@ -1,0 +1,1001 @@
+index,countryName,Date,hdiRank,HDI,litRate
+8," Afghanistan",2010,168,0.463,NULL
+9," Afghanistan",2011,168,0.471,31.7
+10," Afghanistan",2012,168,0.482,NULL
+11," Afghanistan",2013,168,0.487,NULL
+12," Afghanistan",2014,168,0.491,NULL
+13," Afghanistan",2015,168,0.493,NULL
+14," Afghanistan",2016,168,0.494,NULL
+15," Afghanistan",2017,168,0.498,NULL
+36," Albania",2010,68,0.741,NULL
+37," Albania",2011,68,0.752,96.8
+38," Albania",2012,68,0.767,97.2
+39," Albania",2013,68,0.771,NULL
+40," Albania",2014,68,0.773,NULL
+41," Albania",2015,68,0.776,NULL
+42," Albania",2016,68,0.782,NULL
+43," Albania",2017,68,0.785,NULL
+64," Algeria",2010,85,0.729,NULL
+65," Algeria",2011,85,0.736,NULL
+66," Algeria",2012,85,0.74,NULL
+67," Algeria",2013,85,0.745,NULL
+68," Algeria",2014,85,0.747,NULL
+69," Algeria",2015,85,0.749,NULL
+70," Algeria",2016,85,0.753,NULL
+71," Algeria",2017,85,0.754,NULL
+82," Andorra",2010,35,0.828,NULL
+83," Andorra",2011,35,0.827,NULL
+84," Andorra",2012,35,0.849,NULL
+85," Andorra",2013,35,0.85,NULL
+86," Andorra",2014,35,0.853,NULL
+87," Andorra",2015,35,0.854,100
+88," Andorra",2016,35,0.856,100
+89," Andorra",2017,35,0.858,NULL
+101," Angola",2010,147,0.52,NULL
+102," Angola",2011,147,0.535,NULL
+103," Angola",2012,147,0.543,NULL
+104," Angola",2013,147,0.554,NULL
+105," Angola",2014,147,0.564,66
+106," Angola",2015,147,0.572,NULL
+107," Angola",2016,147,0.577,NULL
+108," Angola",2017,147,0.581,NULL
+114," Antigua and Barbuda",2010,70,0.766,NULL
+115," Antigua and Barbuda",2011,70,0.762,NULL
+116," Antigua and Barbuda",2012,70,0.765,NULL
+117," Antigua and Barbuda",2013,70,0.768,NULL
+118," Antigua and Barbuda",2014,70,0.77,NULL
+119," Antigua and Barbuda",2015,70,0.775,NULL
+120," Antigua and Barbuda",2016,70,0.778,NULL
+121," Antigua and Barbuda",2017,70,0.78,NULL
+142," Argentina",2010,47,0.813,NULL
+143," Argentina",2011,47,0.819,NULL
+144," Argentina",2012,47,0.818,NULL
+145," Argentina",2013,47,0.82,NULL
+146," Argentina",2014,47,0.82,NULL
+147," Argentina",2015,47,0.822,98.1
+148," Argentina",2016,47,0.822,NULL
+149," Argentina",2017,47,0.825,NULL
+170," Armenia",2010,83,0.728,NULL
+171," Armenia",2011,83,0.731,99.7
+172," Armenia",2012,83,0.737,NULL
+173," Armenia",2013,83,0.742,NULL
+174," Armenia",2014,83,0.745,NULL
+175," Armenia",2015,83,0.748,NULL
+176," Armenia",2016,83,0.749,NULL
+177," Armenia",2017,83,0.755,NULL
+198," Australia",2010,3,0.923,NULL
+199," Australia",2011,3,0.925,NULL
+200," Australia",2012,3,0.929,NULL
+201," Australia",2013,3,0.931,NULL
+202," Australia",2014,3,0.933,NULL
+203," Australia",2015,3,0.936,NULL
+204," Australia",2016,3,0.938,NULL
+205," Australia",2017,3,0.939,NULL
+226," Austria",2010,20,0.895,NULL
+227," Austria",2011,20,0.897,NULL
+228," Austria",2012,20,0.899,NULL
+229," Austria",2013,20,0.897,NULL
+230," Austria",2014,20,0.901,NULL
+231," Austria",2015,20,0.903,NULL
+232," Austria",2016,20,0.906,NULL
+233," Austria",2017,20,0.908,NULL
+249," Azerbaijan",2010,80,0.74,99.8
+250," Azerbaijan",2011,80,0.741,99.8
+251," Azerbaijan",2012,80,0.745,99.8
+252," Azerbaijan",2013,80,0.752,99.8
+253," Azerbaijan",2014,80,0.758,99.8
+254," Azerbaijan",2015,80,0.758,99.8
+255," Azerbaijan",2016,80,0.757,99.8
+256," Azerbaijan",2017,80,0.757,NULL
+267," Bahamas",2010,54,0.789,NULL
+268," Bahamas",2011,54,0.793,NULL
+269," Bahamas",2012,54,0.807,NULL
+270," Bahamas",2013,54,0.807,NULL
+271," Bahamas",2014,54,0.807,NULL
+272," Bahamas",2015,54,0.807,NULL
+273," Bahamas",2016,54,0.806,NULL
+274," Bahamas",2017,54,0.807,NULL
+295," Bahrain",2010,43,0.796,94.6
+296," Bahrain",2011,43,0.798,NULL
+297," Bahrain",2012,43,0.8,NULL
+298," Bahrain",2013,43,0.807,NULL
+299," Bahrain",2014,43,0.81,NULL
+300," Bahrain",2015,43,0.832,NULL
+301," Bahrain",2016,43,0.846,NULL
+302," Bahrain",2017,43,0.846,NULL
+323," Bangladesh",2010,136,0.545,NULL
+324," Bangladesh",2011,136,0.557,47.1
+325," Bangladesh",2012,136,0.567,NULL
+326," Bangladesh",2013,136,0.575,NULL
+327," Bangladesh",2014,136,0.583,NULL
+328," Bangladesh",2015,136,0.592,NULL
+329," Bangladesh",2016,136,0.597,72.8
+330," Bangladesh",2017,136,0.608,NULL
+351," Barbados",2010,58,0.782,NULL
+352," Barbados",2011,58,0.787,NULL
+353," Barbados",2012,58,0.795,NULL
+354," Barbados",2013,58,0.796,NULL
+355," Barbados",2014,58,0.796,NULL
+356," Barbados",2015,58,0.797,NULL
+357," Barbados",2016,58,0.799,NULL
+358," Barbados",2017,58,0.8,NULL
+374," Belarus",2010,53,0.792,NULL
+375," Belarus",2011,53,0.798,NULL
+376," Belarus",2012,53,0.803,NULL
+377," Belarus",2013,53,0.804,NULL
+378," Belarus",2014,53,0.807,NULL
+379," Belarus",2015,53,0.805,NULL
+380," Belarus",2016,53,0.805,NULL
+381," Belarus",2017,53,0.808,NULL
+402," Belgium",2010,17,0.903,NULL
+403," Belgium",2011,17,0.904,NULL
+404," Belgium",2012,17,0.905,NULL
+405," Belgium",2013,17,0.908,NULL
+406," Belgium",2014,17,0.909,NULL
+407," Belgium",2015,17,0.913,NULL
+408," Belgium",2016,17,0.915,NULL
+409," Belgium",2017,17,0.916,NULL
+430," Belize",2010,106,0.699,NULL
+431," Belize",2011,106,0.702,NULL
+432," Belize",2012,106,0.706,NULL
+433," Belize",2013,106,0.705,NULL
+434," Belize",2014,106,0.706,NULL
+435," Belize",2015,106,0.709,NULL
+436," Belize",2016,106,0.709,NULL
+437," Belize",2017,106,0.708,NULL
+458," Benin",2010,163,0.473,NULL
+459," Benin",2011,163,0.479,NULL
+460," Benin",2012,163,0.489,32.9
+461," Benin",2013,163,0.5,NULL
+462," Benin",2014,163,0.505,NULL
+463," Benin",2015,163,0.508,NULL
+464," Benin",2016,163,0.512,NULL
+465," Benin",2017,163,0.515,NULL
+471," Bhutan",2010,134,0.566,NULL
+472," Bhutan",2011,134,0.575,NULL
+473," Bhutan",2012,134,0.585,57
+474," Bhutan",2013,134,0.589,NULL
+475," Bhutan",2014,134,0.599,NULL
+476," Bhutan",2015,134,0.603,NULL
+477," Bhutan",2016,134,0.609,NULL
+478," Bhutan",2017,134,0.612,NULL
+499," Bolivia (Plurinational State of)",2010,118,0.649,NULL
+500," Bolivia (Plurinational State of)",2011,118,0.655,92.2
+501," Bolivia (Plurinational State of)",2012,118,0.662,94.5
+502," Bolivia (Plurinational State of)",2013,118,0.668,NULL
+503," Bolivia (Plurinational State of)",2014,118,0.675,NULL
+504," Bolivia (Plurinational State of)",2015,118,0.681,92.5
+505," Bolivia (Plurinational State of)",2016,118,0.689,NULL
+506," Bolivia (Plurinational State of)",2017,118,0.693,NULL
+517," Bosnia and Herzegovina",2010,77,0.713,NULL
+518," Bosnia and Herzegovina",2011,77,0.721,98.1
+519," Bosnia and Herzegovina",2012,77,0.739,NULL
+520," Bosnia and Herzegovina",2013,77,0.747,97
+521," Bosnia and Herzegovina",2014,77,0.754,NULL
+522," Bosnia and Herzegovina",2015,77,0.755,NULL
+523," Bosnia and Herzegovina",2016,77,0.766,NULL
+524," Bosnia and Herzegovina",2017,77,0.768,NULL
+545," Botswana",2010,101,0.66,NULL
+546," Botswana",2011,101,0.673,NULL
+547," Botswana",2012,101,0.683,NULL
+548," Botswana",2013,101,0.693,NULL
+549," Botswana",2014,101,0.701,NULL
+550," Botswana",2015,101,0.706,NULL
+551," Botswana",2016,101,0.712,NULL
+552," Botswana",2017,101,0.717,NULL
+573," Brazil",2010,79,0.727,90.4
+574," Brazil",2011,79,0.731,91.4
+575," Brazil",2012,79,0.736,91.3
+576," Brazil",2013,79,0.748,91.5
+577," Brazil",2014,79,0.752,91.7
+578," Brazil",2015,79,0.757,NULL
+579," Brazil",2016,79,0.758,NULL
+580," Brazil",2017,79,0.759,NULL
+601," Brunei Darussalam",2010,39,0.842,NULL
+602," Brunei Darussalam",2011,39,0.846,96.1
+603," Brunei Darussalam",2012,39,0.852,NULL
+604," Brunei Darussalam",2013,39,0.853,NULL
+605," Brunei Darussalam",2014,39,0.853,NULL
+606," Brunei Darussalam",2015,39,0.852,NULL
+607," Brunei Darussalam",2016,39,0.852,NULL
+608," Brunei Darussalam",2017,39,0.853,NULL
+629," Bulgaria",2010,51,0.779,NULL
+630," Bulgaria",2011,51,0.782,98.4
+631," Bulgaria",2012,51,0.786,NULL
+632," Bulgaria",2013,51,0.792,NULL
+633," Bulgaria",2014,51,0.797,NULL
+634," Bulgaria",2015,51,0.807,NULL
+635," Bulgaria",2016,51,0.81,NULL
+636," Bulgaria",2017,51,0.813,NULL
+647," Burkina Faso",2010,183,0.375,NULL
+648," Burkina Faso",2011,183,0.385,NULL
+649," Burkina Faso",2012,183,0.394,NULL
+650," Burkina Faso",2013,183,0.401,NULL
+651," Burkina Faso",2014,183,0.405,34.6
+652," Burkina Faso",2015,183,0.412,NULL
+653," Burkina Faso",2016,183,0.42,NULL
+654," Burkina Faso",2017,183,0.423,NULL
+675," Burundi",2010,185,0.395,NULL
+676," Burundi",2011,185,0.403,NULL
+677," Burundi",2012,185,0.408,NULL
+678," Burundi",2013,185,0.414,NULL
+679," Burundi",2014,185,0.421,61.6
+680," Burundi",2015,185,0.418,NULL
+681," Burundi",2016,185,0.418,NULL
+682," Burundi",2017,185,0.417,NULL
+693," Cabo Verde",2010,125,0.629,NULL
+694," Cabo Verde",2011,125,0.635,NULL
+695," Cabo Verde",2012,125,0.636,85.3
+696," Cabo Verde",2013,125,0.642,NULL
+697," Cabo Verde",2014,125,0.644,NULL
+698," Cabo Verde",2015,125,0.647,86.8
+699," Cabo Verde",2016,125,0.652,NULL
+700," Cabo Verde",2017,125,0.654,NULL
+721," Cambodia",2010,146,0.537,NULL
+722," Cambodia",2011,146,0.546,NULL
+723," Cambodia",2012,146,0.553,NULL
+724," Cambodia",2013,146,0.56,NULL
+725," Cambodia",2014,146,0.566,NULL
+726," Cambodia",2015,146,0.571,NULL
+727," Cambodia",2016,146,0.576,NULL
+728," Cambodia",2017,146,0.582,NULL
+749," Cameroon",2010,151,0.506,71.3
+750," Cameroon",2011,151,0.515,NULL
+751," Cameroon",2012,151,0.526,NULL
+752," Cameroon",2013,151,0.535,NULL
+753," Cameroon",2014,151,0.543,NULL
+754," Cameroon",2015,151,0.548,NULL
+755," Cameroon",2016,151,0.553,NULL
+756," Cameroon",2017,151,0.556,NULL
+777," Canada",2010,12,0.902,NULL
+778," Canada",2011,12,0.905,NULL
+779," Canada",2012,12,0.908,NULL
+780," Canada",2013,12,0.911,NULL
+781," Canada",2014,12,0.918,NULL
+782," Canada",2015,12,0.92,NULL
+783," Canada",2016,12,0.922,NULL
+784," Canada",2017,12,0.926,NULL
+805," Central African Republic",2010,188,0.351,36.8
+806," Central African Republic",2011,188,0.358,NULL
+807," Central African Republic",2012,188,0.365,NULL
+808," Central African Republic",2013,188,0.344,NULL
+809," Central African Republic",2014,188,0.349,NULL
+810," Central African Republic",2015,188,0.357,NULL
+811," Central African Republic",2016,188,0.362,NULL
+812," Central African Republic",2017,188,0.367,NULL
+823," Chad",2010,186,0.371,NULL
+824," Chad",2011,186,0.382,NULL
+825," Chad",2012,186,0.391,NULL
+826," Chad",2013,186,0.397,NULL
+827," Chad",2014,186,0.403,NULL
+828," Chad",2015,186,0.407,26
+829," Chad",2016,186,0.405,22.3
+830," Chad",2017,186,0.404,NULL
+851," Chile",2010,44,0.808,NULL
+852," Chile",2011,44,0.814,96.7
+853," Chile",2012,44,0.819,NULL
+854," Chile",2013,44,0.828,96.3
+855," Chile",2014,44,0.833,NULL
+856," Chile",2015,44,0.84,NULL
+857," Chile",2016,44,0.842,NULL
+858," Chile",2017,44,0.843,NULL
+879," China",2010,86,0.706,95.1
+880," China",2011,86,0.714,NULL
+881," China",2012,86,0.722,NULL
+882," China",2013,86,0.729,NULL
+883," China",2014,86,0.738,NULL
+884," China",2015,86,0.743,NULL
+885," China",2016,86,0.748,NULL
+886," China",2017,86,0.752,NULL
+907," Colombia",2010,90,0.719,93.4
+908," Colombia",2011,90,0.725,93.6
+909," Colombia",2012,90,0.725,NULL
+910," Colombia",2013,90,0.735,NULL
+911," Colombia",2014,90,0.738,94.2
+912," Colombia",2015,90,0.742,94.2
+913," Colombia",2016,90,0.747,NULL
+914," Colombia",2017,90,0.747,NULL
+921," Comoros",2010,165,0.482,NULL
+922," Comoros",2011,165,0.487,NULL
+923," Comoros",2012,165,0.493,49.2
+924," Comoros",2013,165,0.499,NULL
+925," Comoros",2014,165,0.501,NULL
+926," Comoros",2015,165,0.502,NULL
+927," Comoros",2016,165,0.502,NULL
+928," Comoros",2017,165,0.503,NULL
+949," Congo",2010,137,0.557,NULL
+950," Congo",2011,137,0.56,79.3
+951," Congo",2012,137,0.573,NULL
+952," Congo",2013,137,0.582,NULL
+953," Congo",2014,137,0.595,NULL
+954," Congo",2015,137,0.613,NULL
+955," Congo",2016,137,0.612,NULL
+956," Congo",2017,137,0.606,NULL
+976," Congo (Democratic Republic of the)",2010,176,0.407,NULL
+977," Congo (Democratic Republic of the)",2011,176,0.415,NULL
+978," Congo (Democratic Republic of the)",2012,176,0.42,75
+979," Congo (Democratic Republic of the)",2013,176,0.426,NULL
+980," Congo (Democratic Republic of the)",2014,176,0.436,NULL
+981," Congo (Democratic Republic of the)",2015,176,0.444,NULL
+982," Congo (Democratic Republic of the)",2016,176,0.452,77
+983," Congo (Democratic Republic of the)",2017,176,0.457,NULL
+1004," Costa Rica",2010,63,0.754,NULL
+1005," Costa Rica",2011,63,0.76,97.4
+1006," Costa Rica",2012,63,0.772,NULL
+1007," Costa Rica",2013,63,0.776,NULL
+1008," Costa Rica",2014,63,0.78,NULL
+1009," Costa Rica",2015,63,0.788,NULL
+1010," Costa Rica",2016,63,0.791,NULL
+1011," Costa Rica",2017,63,0.794,NULL
+1032," Croatia",2010,46,0.808,NULL
+1033," Croatia",2011,46,0.815,99.1
+1034," Croatia",2012,46,0.816,NULL
+1035," Croatia",2013,46,0.821,NULL
+1036," Croatia",2014,46,0.824,NULL
+1037," Croatia",2015,46,0.827,NULL
+1038," Croatia",2016,46,0.828,NULL
+1039," Croatia",2017,46,0.831,NULL
+1060," Cuba",2010,73,0.779,NULL
+1061," Cuba",2011,73,0.778,NULL
+1062," Cuba",2012,73,0.767,99.8
+1063," Cuba",2013,73,0.765,NULL
+1064," Cuba",2014,73,0.768,NULL
+1065," Cuba",2015,73,0.772,NULL
+1066," Cuba",2016,73,0.774,NULL
+1067," Cuba",2017,73,0.777,NULL
+1088," Cyprus",2010,32,0.85,NULL
+1089," Cyprus",2011,32,0.853,98.7
+1090," Cyprus",2012,32,0.852,NULL
+1091," Cyprus",2013,32,0.853,NULL
+1092," Cyprus",2014,32,0.856,NULL
+1093," Cyprus",2015,32,0.86,NULL
+1094," Cyprus",2016,32,0.867,NULL
+1095," Cyprus",2017,32,0.869,NULL
+1116," Czechia",2010,27,0.862,NULL
+1117," Czechia",2011,27,0.865,NULL
+1118," Czechia",2012,27,0.865,NULL
+1119," Czechia",2013,27,0.874,NULL
+1120," Czechia",2014,27,0.879,NULL
+1121," Czechia",2015,27,0.882,NULL
+1122," Czechia",2016,27,0.885,NULL
+1123," Czechia",2017,27,0.888,NULL
+1144," Côte d'Ivoire",2010,170,0.442,NULL
+1145," Côte d'Ivoire",2011,170,0.445,NULL
+1146," Côte d'Ivoire",2012,170,0.454,41
+1147," Côte d'Ivoire",2013,170,0.462,NULL
+1148," Côte d'Ivoire",2014,170,0.465,43.9
+1149," Côte d'Ivoire",2015,170,0.478,NULL
+1150," Côte d'Ivoire",2016,170,0.486,NULL
+1151," Côte d'Ivoire",2017,170,0.492,NULL
+1172," Denmark",2010,11,0.91,NULL
+1173," Denmark",2011,11,0.922,NULL
+1174," Denmark",2012,11,0.924,NULL
+1175," Denmark",2013,11,0.931,NULL
+1176," Denmark",2014,11,0.928,NULL
+1177," Denmark",2015,11,0.926,NULL
+1178," Denmark",2016,11,0.928,NULL
+1179," Denmark",2017,11,0.929,NULL
+1195," Djibouti",2010,172,0.449,NULL
+1196," Djibouti",2011,172,0.454,NULL
+1197," Djibouti",2012,172,0.459,NULL
+1198," Djibouti",2013,172,0.463,NULL
+1199," Djibouti",2014,172,0.467,NULL
+1200," Djibouti",2015,172,0.47,NULL
+1201," Djibouti",2016,172,0.474,NULL
+1202," Djibouti",2017,172,0.476,NULL
+1213," Dominica",2010,103,0.722,NULL
+1214," Dominica",2011,103,0.722,NULL
+1215," Dominica",2012,103,0.721,NULL
+1216," Dominica",2013,103,0.721,NULL
+1217," Dominica",2014,103,0.724,NULL
+1218," Dominica",2015,103,0.721,NULL
+1219," Dominica",2016,103,0.718,NULL
+1220," Dominica",2017,103,0.715,NULL
+1241," Dominican Republic",2010,94,0.703,89.5
+1242," Dominican Republic",2011,94,0.706,90.1
+1243," Dominican Republic",2012,94,0.71,90.2
+1244," Dominican Republic",2013,94,0.713,90.9
+1245," Dominican Republic",2014,94,0.718,91.8
+1246," Dominican Republic",2015,94,0.729,92
+1247," Dominican Republic",2016,94,0.733,NULL
+1248," Dominican Republic",2017,94,0.736,NULL
+1269," Ecuador",2010,86,0.715,91.9
+1270," Ecuador",2011,86,0.721,91.6
+1271," Ecuador",2012,86,0.726,92.1
+1272," Ecuador",2013,86,0.734,93.3
+1273," Ecuador",2014,86,0.742,94.2
+1274," Ecuador",2015,86,0.743,94.5
+1275," Ecuador",2016,86,0.749,94.3
+1276," Ecuador",2017,86,0.752,NULL
+1297," Egypt",2010,115,0.665,72
+1298," Egypt",2011,115,0.668,NULL
+1299," Egypt",2012,115,0.675,73.9
+1300," Egypt",2013,115,0.68,75.1
+1301," Egypt",2014,115,0.683,NULL
+1302," Egypt",2015,115,0.691,NULL
+1303," Egypt",2016,115,0.694,NULL
+1304," Egypt",2017,115,0.696,NULL
+1325," El Salvador",2010,121,0.671,84.5
+1326," El Salvador",2011,121,0.666,85.5
+1327," El Salvador",2012,121,0.67,NULL
+1328," El Salvador",2013,121,0.671,86.8
+1329," El Salvador",2014,121,0.67,NULL
+1330," El Salvador",2015,121,0.674,88
+1331," El Salvador",2016,121,0.679,NULL
+1332," El Salvador",2017,121,0.674,NULL
+1343," Equatorial Guinea",2010,141,0.581,NULL
+1344," Equatorial Guinea",2011,141,0.584,NULL
+1345," Equatorial Guinea",2012,141,0.589,NULL
+1346," Equatorial Guinea",2013,141,0.59,NULL
+1347," Equatorial Guinea",2014,141,0.59,NULL
+1348," Equatorial Guinea",2015,141,0.593,NULL
+1349," Equatorial Guinea",2016,141,0.593,NULL
+1350," Equatorial Guinea",2017,141,0.591,NULL
+1356," Eritrea",2010,179,0.416,NULL
+1357," Eritrea",2011,179,0.417,NULL
+1358," Eritrea",2012,179,0.422,NULL
+1359," Eritrea",2013,179,0.425,NULL
+1360," Eritrea",2014,179,0.428,NULL
+1361," Eritrea",2015,179,0.433,NULL
+1362," Eritrea",2016,179,0.436,NULL
+1363," Eritrea",2017,179,0.44,NULL
+1384," Estonia",2010,30,0.845,NULL
+1385," Estonia",2011,30,0.853,99.9
+1386," Estonia",2012,30,0.859,NULL
+1387," Estonia",2013,30,0.862,NULL
+1388," Estonia",2014,30,0.864,NULL
+1389," Estonia",2015,30,0.866,NULL
+1390," Estonia",2016,30,0.868,NULL
+1391," Estonia",2017,30,0.871,NULL
+1412," Eswatini (Kingdom of)",2010,144,0.538,83.1
+1413," Eswatini (Kingdom of)",2011,144,0.55,NULL
+1414," Eswatini (Kingdom of)",2012,144,0.561,NULL
+1415," Eswatini (Kingdom of)",2013,144,0.572,NULL
+1416," Eswatini (Kingdom of)",2014,144,0.58,NULL
+1417," Eswatini (Kingdom of)",2015,144,0.584,NULL
+1418," Eswatini (Kingdom of)",2016,144,0.586,NULL
+1419," Eswatini (Kingdom of)",2017,144,0.588,NULL
+1430," Ethiopia",2010,173,0.412,NULL
+1431," Ethiopia",2011,173,0.423,NULL
+1432," Ethiopia",2012,173,0.43,NULL
+1433," Ethiopia",2013,173,0.438,NULL
+1434," Ethiopia",2014,173,0.445,NULL
+1435," Ethiopia",2015,173,0.451,NULL
+1436," Ethiopia",2016,173,0.457,NULL
+1437," Ethiopia",2017,173,0.463,NULL
+1458," Fiji",2010,92,0.711,NULL
+1459," Fiji",2011,92,0.717,NULL
+1460," Fiji",2012,92,0.719,NULL
+1461," Fiji",2013,92,0.727,NULL
+1462," Fiji",2014,92,0.73,NULL
+1463," Fiji",2015,92,0.738,NULL
+1464," Fiji",2016,92,0.738,NULL
+1465," Fiji",2017,92,0.741,NULL
+1486," Finland",2010,15,0.903,NULL
+1487," Finland",2011,15,0.907,NULL
+1488," Finland",2012,15,0.908,NULL
+1489," Finland",2013,15,0.912,NULL
+1490," Finland",2014,15,0.914,NULL
+1491," Finland",2015,15,0.915,NULL
+1492," Finland",2016,15,0.918,NULL
+1493," Finland",2017,15,0.92,NULL
+1514," France",2010,24,0.882,NULL
+1515," France",2011,24,0.884,NULL
+1516," France",2012,24,0.886,NULL
+1517," France",2013,24,0.889,NULL
+1518," France",2014,24,0.894,NULL
+1519," France",2015,24,0.898,NULL
+1520," France",2016,24,0.899,NULL
+1521," France",2017,24,0.901,NULL
+1542," Gabon",2010,110,0.665,NULL
+1543," Gabon",2011,110,0.67,NULL
+1544," Gabon",2012,110,0.678,82.3
+1545," Gabon",2013,110,0.687,NULL
+1546," Gabon",2014,110,0.693,NULL
+1547," Gabon",2015,110,0.694,NULL
+1548," Gabon",2016,110,0.698,NULL
+1549," Gabon",2017,110,0.702,NULL
+1570," Gambia",2010,174,0.441,NULL
+1571," Gambia",2011,174,0.44,NULL
+1572," Gambia",2012,174,0.445,NULL
+1573," Gambia",2013,174,0.453,42
+1574," Gambia",2014,174,0.454,NULL
+1575," Gambia",2015,174,0.457,NULL
+1576," Gambia",2016,174,0.457,NULL
+1577," Gambia",2017,174,0.46,NULL
+1588," Georgia",2010,70,0.735,NULL
+1589," Georgia",2011,70,0.741,NULL
+1590," Georgia",2012,70,0.75,NULL
+1591," Georgia",2013,70,0.757,NULL
+1592," Georgia",2014,70,0.765,99.6
+1593," Georgia",2015,70,0.771,NULL
+1594," Georgia",2016,70,0.776,NULL
+1595," Georgia",2017,70,0.78,NULL
+1616," Germany",2010,5,0.921,NULL
+1617," Germany",2011,5,0.926,NULL
+1618," Germany",2012,5,0.928,NULL
+1619," Germany",2013,5,0.928,NULL
+1620," Germany",2014,5,0.93,NULL
+1621," Germany",2015,5,0.933,NULL
+1622," Germany",2016,5,0.934,NULL
+1623," Germany",2017,5,0.936,NULL
+1644," Ghana",2010,140,0.554,71.5
+1645," Ghana",2011,140,0.563,NULL
+1646," Ghana",2012,140,0.57,NULL
+1647," Ghana",2013,140,0.577,NULL
+1648," Ghana",2014,140,0.576,NULL
+1649," Ghana",2015,140,0.585,NULL
+1650," Ghana",2016,140,0.588,NULL
+1651," Ghana",2017,140,0.592,NULL
+1672," Greece",2010,31,0.856,NULL
+1673," Greece",2011,31,0.852,97.1
+1674," Greece",2012,31,0.854,NULL
+1675," Greece",2013,31,0.856,NULL
+1676," Greece",2014,31,0.864,NULL
+1677," Greece",2015,31,0.866,NULL
+1678," Greece",2016,31,0.868,NULL
+1679," Greece",2017,31,0.87,NULL
+1688," Grenada",2010,75,0.743,NULL
+1689," Grenada",2011,75,0.747,NULL
+1690," Grenada",2012,75,0.749,NULL
+1691," Grenada",2013,75,0.754,NULL
+1692," Grenada",2014,75,0.761,NULL
+1693," Grenada",2015,75,0.767,NULL
+1694," Grenada",2016,75,0.77,NULL
+1695," Grenada",2017,75,0.772,NULL
+1716," Guatemala",2010,127,0.611,NULL
+1717," Guatemala",2011,127,0.619,NULL
+1718," Guatemala",2012,127,0.613,78.3
+1719," Guatemala",2013,127,0.616,77
+1720," Guatemala",2014,127,0.643,81.3
+1721," Guatemala",2015,127,0.645,NULL
+1722," Guatemala",2016,127,0.649,NULL
+1723," Guatemala",2017,127,0.65,NULL
+1744," Guinea",2010,175,0.404,25.3
+1745," Guinea",2011,175,0.418,NULL
+1746," Guinea",2012,175,0.428,NULL
+1747," Guinea",2013,175,0.435,NULL
+1748," Guinea",2014,175,0.44,32
+1749," Guinea",2015,175,0.443,NULL
+1750," Guinea",2016,175,0.449,NULL
+1751," Guinea",2017,175,0.459,NULL
+1757," Guinea-Bissau",2010,177,0.426,NULL
+1758," Guinea-Bissau",2011,177,0.435,NULL
+1759," Guinea-Bissau",2012,177,0.437,NULL
+1760," Guinea-Bissau",2013,177,0.44,NULL
+1761," Guinea-Bissau",2014,177,0.445,45.6
+1762," Guinea-Bissau",2015,177,0.449,NULL
+1763," Guinea-Bissau",2016,177,0.453,NULL
+1764," Guinea-Bissau",2017,177,0.455,NULL
+1785," Guyana",2010,125,0.63,NULL
+1786," Guyana",2011,125,0.639,NULL
+1787," Guyana",2012,125,0.642,NULL
+1788," Guyana",2013,125,0.645,NULL
+1789," Guyana",2014,125,0.648,85.6
+1790," Guyana",2015,125,0.651,NULL
+1791," Guyana",2016,125,0.652,NULL
+1792," Guyana",2017,125,0.654,NULL
+1813," Haiti",2010,168,0.47,NULL
+1814," Haiti",2011,168,0.477,NULL
+1815," Haiti",2012,168,0.481,NULL
+1816," Haiti",2013,168,0.486,NULL
+1817," Haiti",2014,168,0.49,NULL
+1818," Haiti",2015,168,0.493,NULL
+1819," Haiti",2016,168,0.496,NULL
+1820," Haiti",2017,168,0.498,NULL
+1841," Honduras",2010,133,0.596,84.8
+1842," Honduras",2011,133,0.598,85.1
+1843," Honduras",2012,133,0.597,85.4
+1844," Honduras",2013,133,0.6,85.5
+1845," Honduras",2014,133,0.603,87.2
+1846," Honduras",2015,133,0.609,87.9
+1847," Honduras",2016,133,0.614,89
+1848," Honduras",2017,133,0.617,NULL
+1869," Hong Kong, China (SAR)",2010,7,0.901,NULL
+1870," Hong Kong, China (SAR)",2011,7,0.904,NULL
+1871," Hong Kong, China (SAR)",2012,7,0.911,NULL
+1872," Hong Kong, China (SAR)",2013,7,0.915,NULL
+1873," Hong Kong, China (SAR)",2014,7,0.923,NULL
+1874," Hong Kong, China (SAR)",2015,7,0.927,NULL
+1875," Hong Kong, China (SAR)",2016,7,0.93,NULL
+1876," Hong Kong, China (SAR)",2017,7,0.933,NULL
+1896," Hungary",2010,45,0.823,NULL
+1897," Hungary",2011,45,0.827,NULL
+1898," Hungary",2012,45,0.83,NULL
+1899," Hungary",2013,45,0.835,NULL
+1900," Hungary",2014,45,0.833,NULL
+1901," Hungary",2015,45,0.834,NULL
+1902," Hungary",2016,45,0.835,NULL
+1903," Hungary",2017,45,0.838,NULL
+1924," Iceland",2010,6,0.891,NULL
+1925," Iceland",2011,6,0.901,NULL
+1926," Iceland",2012,6,0.909,NULL
+1927," Iceland",2013,6,0.92,NULL
+1928," Iceland",2014,6,0.925,NULL
+1929," Iceland",2015,6,0.927,NULL
+1930," Iceland",2016,6,0.933,NULL
+1931," Iceland",2017,6,0.935,NULL
+1952," India",2010,130,0.581,NULL
+1953," India",2011,130,0.591,69.3
+1954," India",2012,130,0.6,NULL
+1955," India",2013,130,0.607,NULL
+1956," India",2014,130,0.618,NULL
+1957," India",2015,130,0.627,NULL
+1958," India",2016,130,0.636,NULL
+1959," India",2017,130,0.64,NULL
+1980," Indonesia",2010,116,0.661,NULL
+1981," Indonesia",2011,116,0.669,92.8
+1982," Indonesia",2012,116,0.675,NULL
+1983," Indonesia",2013,116,0.681,NULL
+1984," Indonesia",2014,116,0.683,95.1
+1985," Indonesia",2015,116,0.686,95.2
+1986," Indonesia",2016,116,0.691,95.4
+1987," Indonesia",2017,116,0.694,NULL
+2008," Iran (Islamic Republic of)",2010,60,0.755,NULL
+2009," Iran (Islamic Republic of)",2011,60,0.766,NULL
+2010," Iran (Islamic Republic of)",2012,60,0.781,83.6
+2011," Iran (Islamic Republic of)",2013,60,0.784,84.6
+2012," Iran (Islamic Republic of)",2014,60,0.788,84.7
+2013," Iran (Islamic Republic of)",2015,60,0.789,NULL
+2014," Iran (Islamic Republic of)",2016,60,0.796,NULL
+2015," Iran (Islamic Republic of)",2017,60,0.798,NULL
+2036," Iraq",2010,120,0.649,NULL
+2037," Iraq",2011,120,0.656,NULL
+2038," Iraq",2012,120,0.659,NULL
+2039," Iraq",2013,120,0.666,43.7
+2040," Iraq",2014,120,0.666,NULL
+2041," Iraq",2015,120,0.668,NULL
+2042," Iraq",2016,120,0.672,NULL
+2043," Iraq",2017,120,0.685,NULL
+2064," Ireland",2010,4,0.909,NULL
+2065," Ireland",2011,4,0.895,NULL
+2066," Ireland",2012,4,0.902,NULL
+2067," Ireland",2013,4,0.911,NULL
+2068," Ireland",2014,4,0.921,NULL
+2069," Ireland",2015,4,0.929,NULL
+2070," Ireland",2016,4,0.934,NULL
+2071," Ireland",2017,4,0.938,NULL
+2092," Israel",2010,22,0.887,NULL
+2093," Israel",2011,22,0.892,NULL
+2094," Israel",2012,22,0.893,NULL
+2095," Israel",2013,22,0.895,NULL
+2096," Israel",2014,22,0.899,NULL
+2097," Israel",2015,22,0.901,NULL
+2098," Israel",2016,22,0.902,NULL
+2099," Israel",2017,22,0.903,NULL
+2120," Italy",2010,28,0.87,NULL
+2121," Italy",2011,28,0.875,98.8
+2122," Italy",2012,28,0.874,NULL
+2123," Italy",2013,28,0.876,NULL
+2124," Italy",2014,28,0.874,NULL
+2125," Italy",2015,28,0.876,NULL
+2126," Italy",2016,28,0.878,NULL
+2127," Italy",2017,28,0.88,NULL
+2148," Jamaica",2010,97,0.712,NULL
+2149," Jamaica",2011,97,0.715,NULL
+2150," Jamaica",2012,97,0.721,NULL
+2151," Jamaica",2013,97,0.726,NULL
+2152," Jamaica",2014,97,0.728,NULL
+2153," Jamaica",2015,97,0.73,NULL
+2154," Jamaica",2016,97,0.732,NULL
+2155," Jamaica",2017,97,0.732,NULL
+2176," Japan",2010,19,0.885,NULL
+2177," Japan",2011,19,0.89,NULL
+2178," Japan",2012,19,0.895,NULL
+2179," Japan",2013,19,0.899,NULL
+2180," Japan",2014,19,0.903,NULL
+2181," Japan",2015,19,0.905,NULL
+2182," Japan",2016,19,0.907,NULL
+2183," Japan",2017,19,0.909,NULL
+2204," Jordan",2010,95,0.728,92.6
+2205," Jordan",2011,95,0.726,95.9
+2206," Jordan",2012,95,0.726,97.9
+2207," Jordan",2013,95,0.727,NULL
+2208," Jordan",2014,95,0.73,NULL
+2209," Jordan",2015,95,0.733,NULL
+2210," Jordan",2016,95,0.735,NULL
+2211," Jordan",2017,95,0.735,NULL
+2231," Kazakhstan",2010,58,0.765,99.8
+2232," Kazakhstan",2011,58,0.772,NULL
+2233," Kazakhstan",2012,58,0.781,NULL
+2234," Kazakhstan",2013,58,0.788,NULL
+2235," Kazakhstan",2014,58,0.793,NULL
+2236," Kazakhstan",2015,58,0.797,NULL
+2237," Kazakhstan",2016,58,0.797,NULL
+2238," Kazakhstan",2017,58,0.8,NULL
+2259," Kenya",2010,142,0.543,NULL
+2260," Kenya",2011,142,0.552,NULL
+2261," Kenya",2012,142,0.559,NULL
+2262," Kenya",2013,142,0.566,NULL
+2263," Kenya",2014,142,0.572,78.7
+2264," Kenya",2015,142,0.578,NULL
+2265," Kenya",2016,142,0.585,NULL
+2266," Kenya",2017,142,0.59,NULL
+2277," Kiribati",2010,134,0.59,NULL
+2278," Kiribati",2011,134,0.59,NULL
+2279," Kiribati",2012,134,0.598,NULL
+2280," Kiribati",2013,134,0.609,NULL
+2281," Kiribati",2014,134,0.616,NULL
+2282," Kiribati",2015,134,0.621,NULL
+2283," Kiribati",2016,134,0.61,NULL
+2284," Kiribati",2017,134,0.612,NULL
+2305," Korea (Republic of)",2010,22,0.884,NULL
+2306," Korea (Republic of)",2011,22,0.888,NULL
+2307," Korea (Republic of)",2012,22,0.89,NULL
+2308," Korea (Republic of)",2013,22,0.893,NULL
+2309," Korea (Republic of)",2014,22,0.896,NULL
+2310," Korea (Republic of)",2015,22,0.898,NULL
+2311," Korea (Republic of)",2016,22,0.9,NULL
+2312," Korea (Republic of)",2017,22,0.903,NULL
+2333," Kuwait",2010,56,0.792,94.5
+2334," Kuwait",2011,56,0.794,NULL
+2335," Kuwait",2012,56,0.796,95.5
+2336," Kuwait",2013,56,0.795,95.6
+2337," Kuwait",2014,56,0.799,NULL
+2338," Kuwait",2015,56,0.802,95.7
+2339," Kuwait",2016,56,0.804,NULL
+2340," Kuwait",2017,56,0.803,NULL
+2361," Kyrgyzstan",2010,122,0.636,NULL
+2362," Kyrgyzstan",2011,122,0.639,NULL
+2363," Kyrgyzstan",2012,122,0.649,NULL
+2364," Kyrgyzstan",2013,122,0.658,NULL
+2365," Kyrgyzstan",2014,122,0.663,NULL
+2366," Kyrgyzstan",2015,122,0.666,NULL
+2367," Kyrgyzstan",2016,122,0.669,NULL
+2368," Kyrgyzstan",2017,122,0.672,NULL
+2389," Lao People's Democratic Republic",2010,139,0.546,NULL
+2390," Lao People's Democratic Republic",2011,139,0.558,58.3
+2391," Lao People's Democratic Republic",2012,139,0.569,NULL
+2392," Lao People's Democratic Republic",2013,139,0.579,NULL
+2393," Lao People's Democratic Republic",2014,139,0.586,NULL
+2394," Lao People's Democratic Republic",2015,139,0.593,NULL
+2395," Lao People's Democratic Republic",2016,139,0.598,NULL
+2396," Lao People's Democratic Republic",2017,139,0.601,NULL
+2417," Latvia",2010,41,0.816,NULL
+2418," Latvia",2011,41,0.821,99.9
+2419," Latvia",2012,41,0.824,NULL
+2420," Latvia",2013,41,0.833,NULL
+2421," Latvia",2014,41,0.838,NULL
+2422," Latvia",2015,41,0.841,NULL
+2423," Latvia",2016,41,0.844,NULL
+2424," Latvia",2017,41,0.847,NULL
+2430," Lebanon",2010,80,0.758,NULL
+2431," Lebanon",2011,80,0.76,NULL
+2432," Lebanon",2012,80,0.751,NULL
+2433," Lebanon",2013,80,0.751,NULL
+2434," Lebanon",2014,80,0.751,NULL
+2435," Lebanon",2015,80,0.752,NULL
+2436," Lebanon",2016,80,0.753,NULL
+2437," Lebanon",2017,80,0.757,NULL
+2458," Lesotho",2010,159,0.493,NULL
+2459," Lesotho",2011,159,0.498,NULL
+2460," Lesotho",2012,159,0.505,NULL
+2461," Lesotho",2013,159,0.505,NULL
+2462," Lesotho",2014,159,0.509,76.6
+2463," Lesotho",2015,159,0.511,NULL
+2464," Lesotho",2016,159,0.516,NULL
+2465," Lesotho",2017,159,0.52,NULL
+2477," Liberia",2010,181,0.407,NULL
+2478," Liberia",2011,181,0.417,NULL
+2479," Liberia",2012,181,0.42,NULL
+2480," Liberia",2013,181,0.429,NULL
+2481," Liberia",2014,181,0.431,NULL
+2482," Liberia",2015,181,0.432,NULL
+2483," Liberia",2016,181,0.432,NULL
+2484," Liberia",2017,181,0.435,NULL
+2505," Libya",2010,108,0.755,NULL
+2506," Libya",2011,108,0.707,NULL
+2507," Libya",2012,108,0.741,NULL
+2508," Libya",2013,108,0.707,NULL
+2509," Libya",2014,108,0.695,NULL
+2510," Libya",2015,108,0.694,NULL
+2511," Libya",2016,108,0.693,NULL
+2512," Libya",2017,108,0.706,NULL
+2523," Liechtenstein",2010,17,0.904,NULL
+2524," Liechtenstein",2011,17,0.909,NULL
+2525," Liechtenstein",2012,17,0.913,NULL
+2526," Liechtenstein",2013,17,0.912,NULL
+2527," Liechtenstein",2014,17,0.911,NULL
+2528," Liechtenstein",2015,17,0.912,NULL
+2529," Liechtenstein",2016,17,0.915,NULL
+2530," Liechtenstein",2017,17,0.916,NULL
+2551," Lithuania",2010,35,0.824,NULL
+2552," Lithuania",2011,35,0.828,99.8
+2553," Lithuania",2012,35,0.831,NULL
+2554," Lithuania",2013,35,0.836,NULL
+2555," Lithuania",2014,35,0.851,NULL
+2556," Lithuania",2015,35,0.852,NULL
+2557," Lithuania",2016,35,0.855,NULL
+2558," Lithuania",2017,35,0.858,NULL
+2579," Luxembourg",2010,21,0.889,NULL
+2580," Luxembourg",2011,21,0.892,NULL
+2581," Luxembourg",2012,21,0.892,NULL
+2582," Luxembourg",2013,21,0.892,NULL
+2583," Luxembourg",2014,21,0.895,NULL
+2584," Luxembourg",2015,21,0.899,NULL
+2585," Luxembourg",2016,21,0.904,NULL
+2586," Luxembourg",2017,21,0.904,NULL
+2597," Madagascar",2010,161,0.504,NULL
+2598," Madagascar",2011,161,0.504,NULL
+2599," Madagascar",2012,161,0.507,71.6
+2600," Madagascar",2013,161,0.509,NULL
+2601," Madagascar",2014,161,0.512,NULL
+2602," Madagascar",2015,161,0.514,NULL
+2603," Madagascar",2016,161,0.517,NULL
+2604," Madagascar",2017,161,0.519,NULL
+2625," Malawi",2010,171,0.441,61.3
+2626," Malawi",2011,171,0.45,NULL
+2627," Malawi",2012,171,0.455,NULL
+2628," Malawi",2013,171,0.461,NULL
+2629," Malawi",2014,171,0.468,65.1
+2630," Malawi",2015,171,0.47,62.1
+2631," Malawi",2016,171,0.474,NULL
+2632," Malawi",2017,171,0.477,NULL
+2653," Malaysia",2010,57,0.772,93.1
+2654," Malaysia",2011,57,0.778,NULL
+2655," Malaysia",2012,57,0.781,NULL
+2656," Malaysia",2013,57,0.785,NULL
+2657," Malaysia",2014,57,0.79,NULL
+2658," Malaysia",2015,57,0.795,NULL
+2659," Malaysia",2016,57,0.799,NULL
+2660," Malaysia",2017,57,0.802,NULL
+2676," Maldives",2010,101,0.671,NULL
+2677," Maldives",2011,101,0.682,NULL
+2678," Maldives",2012,101,0.688,NULL
+2679," Maldives",2013,101,0.696,NULL
+2680," Maldives",2014,101,0.705,98.6
+2681," Maldives",2015,101,0.71,NULL
+2682," Maldives",2016,101,0.712,NULL
+2683," Maldives",2017,101,0.717,NULL
+2704," Mali",2010,182,0.403,31.1
+2705," Mali",2011,182,0.408,33.6
+2706," Mali",2012,182,0.408,NULL
+2707," Mali",2013,182,0.408,NULL
+2708," Mali",2014,182,0.414,NULL
+2709," Mali",2015,182,0.418,33.1
+2710," Mali",2016,182,0.421,NULL
+2711," Mali",2017,182,0.427,NULL
+2732," Malta",2010,29,0.843,NULL
+2733," Malta",2011,29,0.843,93.3
+2734," Malta",2012,29,0.849,NULL
+2735," Malta",2013,29,0.856,NULL
+2736," Malta",2014,29,0.862,NULL
+2737," Malta",2015,29,0.871,NULL
+2738," Malta",2016,29,0.875,NULL
+2739," Malta",2017,29,0.878,NULL
+2740," Marshall Islands",2017,106,0.708,NULL
+2761," Mauritania",2010,159,0.487,NULL
+2762," Mauritania",2011,159,0.49,NULL
+2763," Mauritania",2012,159,0.499,NULL
+2764," Mauritania",2013,159,0.508,NULL
+2765," Mauritania",2014,159,0.514,NULL
+2766," Mauritania",2015,159,0.514,NULL
+2767," Mauritania",2016,159,0.516,NULL
+2768," Mauritania",2017,159,0.52,NULL
+2789," Mauritius",2010,65,0.749,NULL
+2790," Mauritius",2011,65,0.758,89.3
+2791," Mauritius",2012,65,0.767,91.8
+2792," Mauritius",2013,65,0.772,91.5
+2793," Mauritius",2014,65,0.782,92.5
+2794," Mauritius",2015,65,0.782,92.7
+2795," Mauritius",2016,65,0.788,NULL
+2796," Mauritius",2017,65,0.79,NULL
+2817," Mexico",2010,74,0.743,93.1
+2818," Mexico",2011,74,0.751,93.5
+2819," Mexico",2012,74,0.757,94.2
+2820," Mexico",2013,74,0.756,94
+2821," Mexico",2014,74,0.761,94.6
+2822," Mexico",2015,74,0.767,94.5
+2823," Mexico",2016,74,0.772,NULL
+2824," Mexico",2017,74,0.774,NULL
+2835," Micronesia (Federated States of)",2010,131,0.608,NULL
+2836," Micronesia (Federated States of)",2011,131,0.613,NULL
+2837," Micronesia (Federated States of)",2012,131,0.616,NULL
+2838," Micronesia (Federated States of)",2013,131,0.619,NULL
+2839," Micronesia (Federated States of)",2014,131,0.618,NULL
+2840," Micronesia (Federated States of)",2015,131,0.627,NULL
+2841," Micronesia (Federated States of)",2016,131,0.627,NULL
+2842," Micronesia (Federated States of)",2017,131,0.627,NULL
+2863," Moldova (Republic of)",2010,112,0.67,NULL
+2864," Moldova (Republic of)",2011,112,0.677,NULL
+2865," Moldova (Republic of)",2012,112,0.684,99.1
+2866," Moldova (Republic of)",2013,112,0.693,NULL
+2867," Moldova (Republic of)",2014,112,0.696,NULL
+2868," Moldova (Republic of)",2015,112,0.693,NULL
+2869," Moldova (Republic of)",2016,112,0.697,NULL
+2870," Moldova (Republic of)",2017,112,0.7,NULL
+2891," Mongolia",2010,92,0.697,98.3
+2892," Mongolia",2011,92,0.711,NULL
+2893," Mongolia",2012,92,0.72,NULL
+2894," Mongolia",2013,92,0.729,NULL
+2895," Mongolia",2014,92,0.734,NULL
+2896," Mongolia",2015,92,0.737,NULL
+2897," Mongolia",2016,92,0.743,NULL
+2898," Mongolia",2017,92,0.741,NULL
+2906," Montenegro",2010,50,0.793,NULL
+2907," Montenegro",2011,50,0.798,98.4
+2908," Montenegro",2012,50,0.8,NULL
+2909," Montenegro",2013,50,0.803,NULL
+2910," Montenegro",2014,50,0.805,NULL
+2911," Montenegro",2015,50,0.809,NULL
+2912," Montenegro",2016,50,0.81,NULL
+2913," Montenegro",2017,50,0.814,NULL
+2934," Morocco",2010,123,0.616,NULL
+2935," Morocco",2011,123,0.626,67.1
+2936," Morocco",2012,123,0.635,69.4
+2937," Morocco",2013,123,0.645,NULL
+2938," Morocco",2014,123,0.65,NULL
+2939," Morocco",2015,123,0.655,NULL
+2940," Morocco",2016,123,0.662,NULL
+2941," Morocco",2017,123,0.667,NULL
+2962," Mozambique",2010,180,0.403,NULL
+2963," Mozambique",2011,180,0.407,NULL
+2964," Mozambique",2012,180,0.412,NULL
+2965," Mozambique",2013,180,0.423,NULL
+2966," Mozambique",2014,180,0.427,NULL
+2967," Mozambique",2015,180,0.432,NULL
+2968," Mozambique",2016,180,0.435,NULL
+2969," Mozambique",2017,180,0.437,NULL
+2990," Myanmar",2010,148,0.53,NULL
+2991," Myanmar",2011,148,0.54,NULL
+2992," Myanmar",2012,148,0.549,NULL
+2993," Myanmar",2013,148,0.558,NULL
+2994," Myanmar",2014,148,0.564,NULL
+2995," Myanmar",2015,148,0.569,NULL
+2996," Myanmar",2016,148,0.574,75.6
+2997," Myanmar",2017,148,0.578,NULL
+3018," Namibia",2010,129,0.594,NULL
+3019," Namibia",2011,129,0.607,88.3
+3020," Namibia",2012,129,0.617,NULL
+3021," Namibia",2013,129,0.628,NULL
+3022," Namibia",2014,129,0.636,NULL
+3023," Namibia",2015,129,0.642,NULL
+3024," Namibia",2016,129,0.645,NULL
+3025," Namibia",2017,129,0.647,NULL
+3046," Nepal",2010,149,0.529,NULL
+3047," Nepal",2011,149,0.535,59.6
+3048," Nepal",2012,149,0.548,NULL
+3049," Nepal",2013,149,0.554,NULL
+3050," Nepal",2014,149,0.56,NULL
+3051," Nepal",2015,149,0.566,NULL
+3052," Nepal",2016,149,0.569,NULL
+3053," Nepal",2017,149,0.574,NULL
+3074," Netherlands",2010,10,0.91,NULL
+3075," Netherlands",2011,10,0.921,NULL
+3076," Netherlands",2012,10,0.921,NULL
+3077," Netherlands",2013,10,0.923,NULL
+3078," Netherlands",2014,10,0.924,NULL
+3079," Netherlands",2015,10,0.926,NULL
+3080," Netherlands",2016,10,0.928,NULL
+3081," Netherlands",2017,10,0.931,NULL
+3102," New Zealand",2010,16,0.899,NULL
+3103," New Zealand",2011,16,0.902,NULL
+3104," New Zealand",2012,16,0.905,NULL
+3105," New Zealand",2013,16,0.907,NULL
+3106," New Zealand",2014,16,0.91,NULL
+3107," New Zealand",2015,16,0.914,NULL
+3108," New Zealand",2016,16,0.915,NULL
+3109," New Zealand",2017,16,0.917,NULL
+3130," Nicaragua",2010,124,0.621,NULL
+3131," Nicaragua",2011,124,0.627,NULL
+3132," Nicaragua",2012,124,0.633,NULL
+3133," Nicaragua",2013,124,0.639,NULL
+3134," Nicaragua",2014,124,0.649,NULL
+3135," Nicaragua",2015,124,0.652,NULL
+3136," Nicaragua",2016,124,0.657,NULL
+3137," Nicaragua",2017,124,0.658,NULL
+3158," Niger",2010,189,0.318,NULL
+3159," Niger",2011,189,0.325,NULL
+3160," Niger",2012,189,0.336,15.5
+3161," Niger",2013,189,0.34,NULL
+3162," Niger",2014,189,0.345,NULL
+3163," Niger",2015,189,0.347,NULL
+3164," Niger",2016,189,0.351,NULL
+3165," Niger",2017,189,0.354,NULL
+3173," Nigeria",2010,157,0.484,NULL
+3174," Nigeria",2011,157,0.494,NULL
+3175," Nigeria",2012,157,0.512,NULL
+3176," Nigeria",2013,157,0.519,NULL
+3177," Nigeria",2014,157,0.524,NULL
+3178," Nigeria",2015,157,0.527,NULL
+3179," Nigeria",2016,157,0.53,NULL

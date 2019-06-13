@@ -1,0 +1,258 @@
+index,countryName,Date,hdiRank,litRate
+0, Afghanistan,2011,168,31.7
+1, Albania,2011,68,96.8
+2, Albania,2012,68,97.2
+3, Andorra,2015,35,100.0
+4, Andorra,2016,35,100.0
+5, Angola,2014,147,66.0
+6, Argentina,2015,47,98.1
+7, Armenia,2011,83,99.7
+8, Azerbaijan,2010,80,99.8
+9, Azerbaijan,2011,80,99.8
+10, Azerbaijan,2012,80,99.8
+11, Azerbaijan,2013,80,99.8
+12, Azerbaijan,2014,80,99.8
+13, Azerbaijan,2015,80,99.8
+14, Azerbaijan,2016,80,99.8
+15, Bahrain,2010,43,94.6
+16, Bangladesh,2011,136,47.1
+17, Bangladesh,2016,136,72.8
+18, Benin,2012,163,32.9
+20, Bhutan,2012,134,57.0
+21, Bolivia (Plurinational State of),2011,118,92.2
+22, Bolivia (Plurinational State of),2012,118,94.5
+23, Bolivia (Plurinational State of),2015,118,92.5
+25, Bosnia and Herzegovina,2011,77,98.1
+26, Bosnia and Herzegovina,2013,77,97.0
+28, Brazil,2010,79,90.4
+29, Brazil,2011,79,91.4
+30, Brazil,2012,79,91.3
+31, Brazil,2013,79,91.5
+32, Brazil,2014,79,91.7
+33, Brunei Darussalam,2011,39,96.1
+34, Bulgaria,2011,51,98.4
+36, Burkina Faso,2014,183,34.6
+39, Burundi,2014,185,61.6
+41, Cabo Verde,2012,125,85.3
+42, Cabo Verde,2015,125,86.8
+44, Cameroon,2010,151,71.3
+46, Central African Republic,2010,188,36.8
+48, Chad,2015,186,26.0
+49, Chad,2016,186,22.3
+50, Chile,2011,44,96.7
+51, Chile,2013,44,96.3
+54, China,2010,86,95.1
+56, Colombia,2010,90,93.4
+57, Colombia,2011,90,93.6
+58, Colombia,2014,90,94.2
+59, Colombia,2015,90,94.2
+61, Comoros,2012,165,49.2
+62, Congo,2011,137,79.3
+63, Congo (Democratic Republic of the),2012,176,75.0
+64, Congo (Democratic Republic of the),2016,176,77.0
+66, Costa Rica,2011,63,97.4
+67, Croatia,2011,46,99.1
+68, Cuba,2012,73,99.8
+69, Cyprus,2011,32,98.7
+71, Côte d'Ivoire,2012,170,41.0
+72, Côte d'Ivoire,2014,170,43.9
+73, Dominican Republic,2010,94,89.5
+74, Dominican Republic,2011,94,90.1
+75, Dominican Republic,2012,94,90.2
+76, Dominican Republic,2013,94,90.9
+77, Dominican Republic,2014,94,91.8
+78, Dominican Republic,2015,94,92.0
+80, Ecuador,2010,86,91.9
+81, Ecuador,2011,86,91.6
+82, Ecuador,2012,86,92.1
+83, Ecuador,2013,86,93.3
+84, Ecuador,2014,86,94.2
+85, Ecuador,2015,86,94.5
+86, Ecuador,2016,86,94.3
+88, Egypt,2010,115,72.0
+89, Egypt,2012,115,73.9
+90, Egypt,2013,115,75.1
+91, El Salvador,2010,121,84.5
+92, El Salvador,2011,121,85.5
+93, El Salvador,2013,121,86.8
+94, El Salvador,2015,121,88.0
+97, Estonia,2011,30,99.9
+99, Eswatini (Kingdom of),2010,144,83.1
+101, Gabon,2012,110,82.3
+103, Gambia,2013,174,42.0
+104, Georgia,2014,70,99.6
+106, Ghana,2010,140,71.5
+108, Greece,2011,31,97.1
+109, Guatemala,2012,127,78.3
+110, Guatemala,2013,127,77.0
+111, Guatemala,2014,127,81.3
+112, Guinea,2010,175,25.3
+113, Guinea,2014,175,32.0
+115, Guinea-Bissau,2014,177,45.6
+116, Guyana,2014,125,85.6
+117, Honduras,2010,133,84.8
+118, Honduras,2011,133,85.1
+119, Honduras,2012,133,85.4
+120, Honduras,2013,133,85.5
+121, Honduras,2014,133,87.2
+122, Honduras,2015,133,87.9
+123, Honduras,2016,133,89.0
+124, India,2011,130,69.3
+126, Indonesia,2011,116,92.8
+127, Indonesia,2014,116,95.1
+128, Indonesia,2015,116,95.2
+129, Indonesia,2016,116,95.4
+131, Iran (Islamic Republic of),2012,60,83.6
+132, Iran (Islamic Republic of),2013,60,84.6
+133, Iran (Islamic Republic of),2014,60,84.7
+135, Iraq,2013,120,43.7
+136, Italy,2011,28,98.8
+138, Jordan,2010,95,92.6
+139, Jordan,2011,95,95.9
+140, Jordan,2012,95,97.9
+141, Kazakhstan,2010,58,99.8
+143, Kenya,2014,142,78.7
+146, Kuwait,2010,56,94.5
+147, Kuwait,2012,56,95.5
+148, Kuwait,2013,56,95.6
+149, Kuwait,2015,56,95.7
+153, Lao People's Democratic Republic,2011,139,58.3
+155, Latvia,2011,41,99.9
+157, Lesotho,2014,159,76.6
+158, Lithuania,2011,35,99.8
+160, Madagascar,2012,161,71.6
+161, Malawi,2010,171,61.3
+162, Malawi,2014,171,65.1
+163, Malawi,2015,171,62.1
+165, Malaysia,2010,57,93.1
+168, Maldives,2014,101,98.6
+169, Mali,2010,182,31.1
+170, Mali,2011,182,33.6
+171, Mali,2015,182,33.1
+174, Malta,2011,29,93.3
+175, Marshall Islands,2011,106,98.3
+179, Mauritius,2011,65,89.3
+180, Mauritius,2012,65,91.8
+181, Mauritius,2013,65,91.5
+182, Mauritius,2014,65,92.5
+183, Mauritius,2015,65,92.7
+187, Mexico,2010,74,93.1
+188, Mexico,2011,74,93.5
+189, Mexico,2012,74,94.2
+190, Mexico,2013,74,94.0
+191, Mexico,2014,74,94.6
+192, Mexico,2015,74,94.5
+194, Moldova (Republic of),2012,112,99.1
+196, Mongolia,2010,92,98.3
+197, Montenegro,2011,50,98.4
+198, Morocco,2011,123,67.1
+199, Morocco,2012,123,69.4
+201, Myanmar,2016,148,75.6
+202, Namibia,2011,129,88.3
+203, Nepal,2011,149,59.6
+206, Niger,2012,189,15.5
+207, Oman,2010,48,86.9
+208, Oman,2014,48,92.0
+209, Oman,2015,48,93.0
+211, Pakistan,2010,150,55.4
+212, Pakistan,2011,150,54.7
+213, Pakistan,2012,150,56.8
+214, Pakistan,2013,150,55.6
+215, Pakistan,2014,150,57.0
+216, Palau,2013,60,99.5
+217, Palau,2015,60,96.6
+218," Palestine, State of",2010,119,94.9
+219," Palestine, State of",2011,119,95.3
+220," Palestine, State of",2012,119,95.9
+221," Palestine, State of",2013,119,96.3
+222," Palestine, State of",2014,119,96.4
+223," Palestine, State of",2015,119,96.7
+224," Palestine, State of",2016,119,96.9
+227, Panama,2010,66,94.1
+229, Paraguay,2010,110,93.9
+230, Paraguay,2014,110,94.6
+231, Paraguay,2015,110,95.1
+233, Peru,2012,89,93.8
+234, Peru,2014,89,93.7
+235, Peru,2015,89,94.2
+236, Peru,2016,89,94.2
+239, Philippines,2013,113,96.4
+240, Portugal,2011,41,94.5
+241, Qatar,2010,37,96.3
+242, Qatar,2011,37,96.4
+243, Qatar,2012,37,96.7
+244, Qatar,2013,37,97.5
+245, Qatar,2014,37,97.7
+246, Romania,2011,52,98.6
+247, Russian Federation,2010,49,99.7
+249, Rwanda,2010,158,65.9
+250, Rwanda,2012,158,68.3
+251, Samoa,2011,104,99.0
+252, Sao Tome and Principe,2012,143,90.1
+254, Saudi Arabia,2013,39,94.4
+255, Senegal,2011,164,52.1
+256, Senegal,2013,164,42.8
+257, Serbia,2011,67,98.0
+258, Serbia,2016,67,98.8
+259, Seychelles,2010,62,94.0
+260, Sierra Leone,2013,184,32.4
+263, Singapore,2010,9,95.9
+264, Singapore,2011,9,96.2
+265, Singapore,2012,9,96.4
+266, Singapore,2013,9,96.5
+267, Singapore,2014,9,96.7
+268, Singapore,2015,9,96.8
+269, Singapore,2016,9,97.0
+270, South Africa,2010,113,92.9
+271, South Africa,2011,113,93.1
+272, South Africa,2012,113,93.7
+273, South Africa,2014,113,94.1
+274, South Africa,2015,113,94.4
+276, Spain,2010,26,97.7
+277, Spain,2011,26,97.8
+278, Spain,2012,26,97.9
+279, Spain,2013,26,98.1
+280, Spain,2014,26,98.1
+281, Spain,2015,26,98.1
+282, Spain,2016,26,98.3
+283, Sri Lanka,2010,76,91.2
+285, Suriname,2010,100,94.7
+286, Suriname,2012,100,92.9
+288, Tanzania (United Republic of),2010,154,67.8
+289, Tanzania (United Republic of),2012,154,78.1
+290, Tanzania (United Republic of),2015,154,77.9
+293, Thailand,2010,83,96.4
+294, Thailand,2013,83,93.7
+295, Thailand,2015,83,92.9
+296, Timor-Leste,2010,132,58.3
+298, Togo,2011,165,60.4
+299, Togo,2015,165,63.7
+300, Tonga,2011,98,99.4
+302, Tunisia,2010,95,79.1
+303, Tunisia,2011,95,79.7
+304, Tunisia,2012,95,80.2
+305, Tunisia,2014,95,79.0
+308, Turkey,2010,64,92.7
+309, Turkey,2011,64,94.1
+310, Turkey,2012,64,94.9
+311, Turkey,2013,64,95.3
+312, Turkey,2014,64,95.4
+313, Turkey,2015,64,95.6
+315, Uganda,2010,162,73.2
+316, Uganda,2012,162,70.2
+317, Ukraine,2012,88,100.0
+319, Uruguay,2010,55,98.1
+320, Uruguay,2011,55,98.3
+321, Uruguay,2012,55,98.4
+322, Uruguay,2013,55,98.4
+323, Uruguay,2014,55,98.4
+324, Uruguay,2015,55,98.5
+326, Uzbekistan,2013,105,100.0
+327, Uzbekistan,2014,105,100.0
+328, Uzbekistan,2015,105,100.0
+330, Venezuela (Bolivarian Republic of),2011,78,94.8
+331, Venezuela (Bolivarian Republic of),2015,78,96.6
+332, Venezuela (Bolivarian Republic of),2016,78,97.1
+335, Zambia,2010,144,83.0
+336, Zimbabwe,2011,156,83.6
+337, Zimbabwe,2014,156,88.7
